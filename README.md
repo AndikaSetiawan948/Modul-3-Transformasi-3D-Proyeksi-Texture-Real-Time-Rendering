@@ -11,6 +11,22 @@ renderer (`web/`) is Three.js and is the GitHub Pages deliverable.
 vectors, pre-multiply (`p' = M @ p`), chains right-to-left; right-handed;
 camera looks down `-z`; NDC `[-1,1]^3`, near at `z=-1`; viewport flips `y`.
 
+
+## 🌐 Live Demo (GitHub Pages) & Simulasi Lokal
+
+- **Live URL (GitHub Pages):**
+  [https://AndikaSetiawan948.github.io/Modul-3-Transformasi-3D-Proyeksi-Texture-Real-Time-Rendering/web/](https://AndikaSetiawan948.github.io/Modul-3-Transformasi-3D-Proyeksi-Texture-Real-Time-Rendering/web/)
+
+- **Menjalankan Simulasi Lokal (`npx serve`):**
+
+  ```bash
+  npx serve .
+  ```
+
+  Lalu buka di browser:
+
+  http://localhost:3000/web/
+
 ## Quick start
 
 ```bash
